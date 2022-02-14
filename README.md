@@ -1,6 +1,6 @@
 ## Oiee! Eu sou o Kauã Duarte e sou desenvolvedor Full Stack
 
-- 👀 Sou Técnico em Informática e futuro estudante de ADS
+- 👀 Sou Técnico em Informática e estudante de ADS
 - 🌱 Atualmente atuo na área de desenvolvimento mobile
 
 <div align="center">
