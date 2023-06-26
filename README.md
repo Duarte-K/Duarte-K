@@ -1,4 +1,4 @@
-## Oiee! Eu sou o Kauã Duarte e sou desenvolvedor Full Stack
+## Oiee! Eu sou o Kauã Duarte e sou Desenvolvedor mobile
 
 - 👀 Sou Técnico em Informática e estudante de ADS
 - 🌱 Atualmente atuo na área de desenvolvimento mobile
