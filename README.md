@@ -1,7 +1,7 @@
 ## Oiee! Eu sou o Kauã Duarte e sou Desenvolvedor mobile
 
-- 👀 Sou Técnico em Informática e estudante de ADS
-- 🌱 Atualmente atuo na área de desenvolvimento mobile
+- 👀 Sou Técnico em Informática e formado em ADS.
+- 🌱 Atualmente atuo na área de desenvolvimento mobile e web
 
 <div align="center">
   <a href="https://github.com/Duarte-K">
